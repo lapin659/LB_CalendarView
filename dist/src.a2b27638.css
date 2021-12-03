@@ -34,14 +34,14 @@ td {
 .calendar-month-header {
   display: flex;
   justify-content: space-between;
-  background-color: #0064CC;
+  background-color: #1f335a;
   padding: 10px;
   padding-right: 70px;
 }
 
 /* month indicator */
 .calendar-month-header-selected-month {
-  color: orange;
+  color: white;
   font-size: 24px;
   font-weight: 600;
 }
@@ -69,9 +69,9 @@ td {
 
 /* Mon | Tue | Wed | Thu | Fri | Sat | Sun */
 .day-of-week {
-  color: yellow;
+  color: white;
   font-size: 18px;
-  background-color: #006fe6;
+  background-color: #BD5C32;
   padding-bottom: 5px;
   padding-top: 10px;
 }
