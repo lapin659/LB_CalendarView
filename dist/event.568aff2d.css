@@ -8,7 +8,7 @@
 
         /* Style the header */
         header {
-            background-color: #0064CC;
+            background-color: #1f335a;
             padding: 30px;
             text-align: center;
             font-size: 15px;
@@ -19,7 +19,7 @@
         .labelText {
             text-align: left;
             font-size: 15px;
-            color: #0064cc;
+            color: #1f335a;
             position: relative;
             left: 5px;
         }
@@ -29,7 +29,7 @@
         .workText {
             text-align: left;
             font-size: 15px;
-            color: #BD5C30;
+            color: #1f335a;
             position: relative;
             left: 5px;
            
@@ -404,13 +404,13 @@
 
         .button1 {
             background-color: white;
-            color: #0064CC;
-            border: 2px solid #0064CC;
+            color: #BD5C32;
+            border: 2px solid #BD5C32;
             margin-left: 15px;
         }
 
             .button1:hover {
-                background-color: #0064CC;
+                background-color: #BD5C32;
                 color: white;
             }
 
@@ -451,7 +451,7 @@
 
         /*style the items (options), including the selected item:*/
         .select-items div, .select-selected {
-            color: #0064cc;
+            color: #1f335a;
             padding: 8px 16px;
             border: 1px solid transparent;
             border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
