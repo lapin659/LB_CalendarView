@@ -121,7 +121,6 @@ td {
 
 .calendar-day > button {
   display: flex;
-  color: #fff9e6;
   justify-content: center;
   align-items: center;
   right:8px;

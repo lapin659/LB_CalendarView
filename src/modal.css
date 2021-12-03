@@ -58,7 +58,7 @@
 /* Close button on hover */
 .close:hover,
 .close:focus {
-  color: red;
+  color: #BD5C32;
   cursor: pointer;
 }
 
